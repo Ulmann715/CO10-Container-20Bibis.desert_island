@@ -1,0 +1,1 @@
+[CW, 50, 5] execVM "chemicalDetector.sqf";
